@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<html>
 
   <head>
     <style>
@@ -11,5 +11,5 @@ body {background-color: powderblue;}
   </body>
 
   
+<html>
 
-</!DOCTYPE html>
